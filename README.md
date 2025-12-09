@@ -33,9 +33,10 @@ Shown automatically when AQI falls into:
 -Severe
 
 
+
 Tech Stack:
 
-Technology	      -            Purpose
+
 
 Python	          -       Core programming
 
