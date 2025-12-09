@@ -27,17 +27,19 @@ Very Poor
 Severe
 
 Tech Stack:
-Technology	                  Purpose
-Python	                  Core programming
-Streamlit                 UI + in-app alerts
-Prophet	                  Time-series forecasting
-Pandas, NumPy	              Data processing
-Plotly	                  Interactive charts
-Requests	                    API calls
-data.gov.in API	            Real-time AQI
+
+Technology	      -            Purpose
+Python	          -       Core programming
+Streamlit         -      UI + in-app alerts
+Prophet	          -        Time-series forecasting
+Pandas, NumPy	    -          Data processing
+Plotly	          -        Interactive charts
+Requests	        -            API calls
+data.gov.in API	  -          Real-time AQI
 
 
 Installation & Setup:
+
 1️. Clone the repository
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
