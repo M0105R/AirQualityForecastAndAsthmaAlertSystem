@@ -17,20 +17,20 @@ If not enough → synthetic interpolation + fallback model
 4. Personalized Health Advice:
 Based on:
 
-AQI category
+-AQI category
 
-Asthma status
+-Asthma status
 
-Asthma severity
+-Asthma severity
 
 5. In-App Alerts
 Shown automatically when AQI falls into:
 
-Poor
+-Poor
 
-Very Poor
+-Very Poor
 
-Severe
+-Severe
 
 
 Tech Stack:
