@@ -1,7 +1,7 @@
 Air Quality Forecast & Asthma Alert System
 
 A real-time Air Quality Monitoring, 24-Hour AQI Forecasting, and Asthma Health Advisory application built using Streamlit, Prophet, and live air-quality data from CPCB (data.gov.in API).
-This project helps users — especially asthma patients — make informed decisions about outdoor exposure.
+This project helps users, especially asthma patients, make informed decisions about outdoor exposure.
 
 How It Works:
 1. Real-Time AQI Fetching
@@ -37,7 +37,7 @@ Requests	                    API calls
 data.gov.in API	            Real-time AQI
 
 
-Installation & Setup
+Installation & Setup:
 1️. Clone the repository
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
